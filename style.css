@@ -1,0 +1,25 @@
+body {
+    background-color: #fff;
+}
+.text {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+.container {
+   display: flex;
+   justify-content: center;
+}
+button {
+    height: 40px;
+    width: 70px;
+    border-radius: 30px;
+    border-style: 3px;
+    align-self: end;
+}
+#yellow:hover {
+    background-color: yellow;
+
+}
+#grey:hover {
+    background-color: grey;
+}
